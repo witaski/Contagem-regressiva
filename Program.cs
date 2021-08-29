@@ -6,7 +6,10 @@ namespace Contagem_regressiva
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!");
+            Console.WriteLine("Preparar...");
+            Console.WriteLine("Apontar...");
+            Console.WriteLine("FOGO!");
+
         }
     }
 }
